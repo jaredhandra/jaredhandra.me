@@ -1,0 +1,43 @@
+body {
+  background-color: #fafbfa;
+}
+.container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Lato', sans-serif;
+  max-width: 800px;
+  margin: 50px auto;
+}
+.header {
+  font-family: 'Quicksand', sans-serif;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.big-about {
+  padding: 20px 20px 0px 0px;
+}
+
+.propic img{
+  border-radius: 50%;
+}
+
+.links {
+  display: inline;
+}
+
+a {
+  color: #fbc74b;
+}
+a:visited {
+  color: #9ba3a5;
+}
+
+.description {
+  margin-top: 30px;
+  line-height: 27px;
+  font-size: 18px;
+}
