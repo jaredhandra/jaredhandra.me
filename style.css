@@ -23,6 +23,8 @@ body {
 
 .propic img{
   border-radius: 50%;
+  height: 250px;
+  margin-top: 60px;
 }
 
 .links {
